@@ -1,3 +1,5 @@
+Nama  = Chandra Pramudya Harvanto
+NIM   = E41201448
 ![AutoCompleteText](https://user-images.githubusercontent.com/80252214/136357062-39642ca1-2834-4600-b987-2b7e33b340fe.png)
 ![Listview](https://user-images.githubusercontent.com/80252214/136357070-0fe44e85-9a30-488b-a8bc-9dfb41ddf64c.png)
 ![Spinner](https://user-images.githubusercontent.com/80252214/136357074-67df478b-f24e-4b9a-84dc-b730c3809439.png)

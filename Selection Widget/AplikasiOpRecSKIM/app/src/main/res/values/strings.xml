@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aplikasi OpRec SKIM</string>
+
+    <string-array name="jurusan">
+        <item>Produksi Pertanian</item>
+        <item>Teknologi Pertanian</item>
+        <item>Peternakan</item>
+        <item>Manajemen Agribisnis</item>
+        <item>Teknologi Informasi</item>
+        <item>Bahasa, Komunikasi dan Pariwisata</item>
+        <item>Kesehatan</item>
+        <item>Teknik</item>
+    </string-array>
+</resources>
